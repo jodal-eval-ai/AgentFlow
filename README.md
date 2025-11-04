@@ -21,6 +21,7 @@ AgentFlow: In-the-Flow Agentic System Optimization
     <a href="https://agentflow.stanford.edu/"><img src="https://img.shields.io/badge/Website-AgentFlow-E5426E?logo=kashflow" alt="Website"></a>
     <a href="https://x.com/lupantech/status/1976016000345919803"><img src="https://img.shields.io/badge/Coverage-AgentFlow-2176BC.svg?logo=x" alt="X"></a>
     <a href="https://www.youtube.com/watch?v=kIQbCQIH1SI"><img src="https://img.shields.io/badge/YouTube-Tutorial-FF0000?logo=youtube" alt="Youtube"></a>
+    <a href="https://deepwiki.com/lupantech/AgentFlow"><img src="https://img.shields.io/badge/DeepWiki-AgentFlow-6B4FBB?logo=readthedocs&logoColor=white" alt="DeepWiki"></a>
     <a href="https://join.slack.com/t/agentflow-co/shared_invite/zt-3f712xngl-LfxS4gmftAeKvcxR3nSkWQ"><img src="https://img.shields.io/badge/Slack-AgentFlow-D41544.svg?logo=slack" alt="Slack"></a>
     <a href="https://github.com/lupantech/AgentFlow/blob/main/assets/img/wechat_group.jpg">
   <img src="https://img.shields.io/badge/Wechat-AgentFlow-07C160.svg?logo=wechat" alt="Wechat AgentFlow">
@@ -31,6 +32,7 @@ AgentFlow: In-the-Flow Agentic System Optimization
 
 
 ## 📣 News
+- **[2025.10.26]** 📚 Our project introduction has been featured on **[DeepWiki](https://deepwiki.com/lupantech/AgentFlow)**!
 - **[2025.10.16]** 🏆 Our paper has been accepted by [**NeurIPS 2025 Efficient Reasoning Workshop**](https://efficient-reasoning.github.io/)!
 - **[2025.10.13]** 📸 Excited to have a tutorial video for AgentFlow covered by Discover AI on **[YouTube](https://www.youtube.com/watch?v=kIQbCQIH1SI)**!
 - **[2025.10.10]** 🚀 Our X [post](https://x.com/lupantech/status/1976016000345919803) received **1K+ likes**! Feel free to check out the post and join the discussion! 💬
