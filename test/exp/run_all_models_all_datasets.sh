@@ -41,7 +41,7 @@ TASKS=(
 MODELS=(
     "8000:vllm-AgentFlow/agentflow-planner-7b,AgentFlow-7B,\
 Base_Generator_Tool|Python_Coder_Tool|Google_Search_Tool|Wikipedia_Search_Tool,\
-gpt-4o-mini|dashscope-qwen2.5-7b-coder-instruct|Default|Default,\
+gpt-4o-mini|dashscope-qwen2.5-coder-7b-instruct|Default|Default,\
 trainable|dashscope|dashscope|dashscope"
 #     ":dashscope-qwen2.5-7b-instruct,Qwen2.5-7b-naive,\
 # Base_Generator_Tool|Python_Coder_Tool|Google_Search_Tool|Wikipedia_Search_Tool,\
