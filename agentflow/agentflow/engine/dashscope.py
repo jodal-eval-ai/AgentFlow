@@ -75,6 +75,10 @@ class ChatDashScope(EngineLM, CachedEngine):
             raise ValueError("Please set the DASHSCOPE_API_KEY environment variable if you'd like to use DashScope models.")
         
         dashscope.api_key = os.getenv("DASHSCOPE_API_KEY")
+        dashscope.base_http_api_url = os.getenv(
+            "DASHSCOPE_BASE_URL", 
+            "https://dashscope-intl.aliyuncs.com/api/v1"
+        )
 
     @retry(wait=wait_random_exponential(min=1, max=7), stop=stop_after_attempt(7))
     def generate(self, content: Union[str, List[Union[str, bytes]]], system_prompt=None, **kwargs):
